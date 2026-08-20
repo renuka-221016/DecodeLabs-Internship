@@ -1,0 +1,101 @@
+Review,Sentiment,Processed_Review,Review_Length
+Poor product and very slow delivery,Negative,poor product slow delivery,35
+The product does not work properly,Negative,product work properly,34
+The design is poor and the quality is terrible,Negative,design poor quality terrible,46
+Very satisfied with the overall experience,Positive,satisfied overall experience,42
+This was a fantastic purchase,Positive,fantastic purchase,29
+The service was excellent and professional,Positive,service excellent professional,42
+Fast shipping and great product,Positive,fast shipping great product,31
+The product feels cheap and poorly made,Negative,product feel cheap poorly made,39
+Excellent value for money,Positive,excellent value money,25
+This product is excellent and I absolutely love it,Positive,product excellent absolutely love,50
+Great purchase and excellent service,Positive,great purchase excellent service,36
+The product feels premium and durable,Positive,product feel premium durable,37
+The package arrived damaged and the product was broken,Negative,package arrived damaged product broken,54
+Excellent product and quick delivery,Positive,excellent product quick delivery,36
+The product arrived late and did not work,Negative,product arrived late work,41
+Fantastic product with excellent performance,Positive,fantastic product excellent performance,44
+The product is confusing and ineffective,Negative,product confusing ineffective,40
+I dislike the quality and performance,Negative,dislike quality performance,37
+The product exceeded my expectations,Positive,product exceeded expectation,36
+Great experience from start to finish,Positive,great experience start finish,37
+Poor quality and not worth the money,Negative,poor quality worth money,36
+I would not recommend this product to anyone,Negative,would recommend product anyone,44
+The product is simple and very effective,Positive,product simple effective,40
+Really good product with excellent quality,Positive,really good product excellent quality,42
+I would never buy this product again,Negative,would never buy product,36
+The quality is outstanding,Positive,quality outstanding,26
+The product arrived on time and works perfectly,Positive,product arrived time work perfectly,47
+Poor product with useless features,Negative,poor product useless feature,34
+This is one of the best products I have purchased,Positive,one best product purchased,49
+Slow shipping and bad product,Negative,slow shipping bad product,29
+I am very satisfied with the quality,Positive,satisfied quality,36
+I love everything about this product,Positive,love everything product,36
+Terrible performance and bad design,Negative,terrible performance bad design,35
+Fantastic value and great quality,Positive,fantastic value great quality,33
+The experience was frustrating and disappointing,Negative,experience frustrating disappointing,48
+Great quality and worth every penny,Positive,great quality worth every penny,35
+Absolutely terrible and difficult to use,Negative,absolutely terrible difficult use,40
+The quality is extremely poor,Negative,quality extremely poor,29
+Amazing performance and great design,Positive,amazing performance great design,36
+Absolutely fantastic and easy to use,Positive,absolutely fantastic easy use,36
+Highly recommended and worth buying,Positive,highly recommended worth buying,35
+This product is reliable and useful,Positive,product reliable useful,35
+The delivery was fast and the packaging was excellent,Positive,delivery fast packaging excellent,53
+Very dissatisfied with the overall experience,Negative,dissatisfied overall experience,45
+I love the quality and performance,Positive,love quality performance,34
+I would definitely buy this product again,Positive,would definitely buy product,41
+Bad experience from start to finish,Negative,bad experience start finish,35
+Excellent customer experience,Positive,excellent customer experience,29
+The product failed to meet my expectations,Negative,product failed meet expectation,42
+Wonderful experience and fantastic product,Positive,wonderful experience fantastic product,42
+This product is much better than expected,Positive,product much better expected,41
+The product works perfectly and looks beautiful,Positive,product work perfectly look beautiful,47
+The product is reliable and works very well,Positive,product reliable work well,43
+I would happily recommend this product,Positive,would happily recommend product,38
+Very good product and amazing customer service,Positive,good product amazing customer service,46
+Poor value and terrible quality,Negative,poor value terrible quality,31
+I highly recommend this product to everyone,Positive,highly recommend product everyone,43
+Very unhappy with my purchase,Negative,unhappy purchase,29
+The product is perfect for my needs,Positive,product perfect need,35
+The service was terrible and unprofessional,Negative,service terrible unprofessional,43
+I would not recommend this product,Negative,would recommend product,34
+Not recommended and definitely not worth buying,Negative,recommended definitely worth buying,47
+Terrible product with awful performance,Negative,terrible product awful performance,39
+The experience was smooth and enjoyable,Positive,experience smooth enjoyable,39
+This product is terrible and I hate it,Negative,product terrible hate,38
+The product is unreliable and performs badly,Negative,product unreliable performs badly,44
+Excellent product with great features,Positive,excellent product great feature,37
+Bad purchase and poor service,Negative,bad purchase poor service,29
+I am not satisfied with the quality,Negative,satisfied quality,35
+I dislike almost everything about this product,Negative,dislike almost everything product,46
+Very disappointed with this purchase,Negative,disappointed purchase,36
+I am delighted with this purchase,Positive,delighted purchase,33
+Bad product and terrible customer service,Negative,bad product terrible customer service,41
+The product performs amazingly well,Positive,product performs amazingly well,35
+The product performs very badly,Negative,product performs badly,31
+The delivery was very late and the packaging was damaged,Negative,delivery late packaging damaged,56
+Terrible customer experience,Negative,terrible customer experience,28
+I am completely satisfied,Positive,completely satisfied,25
+This was a terrible purchase,Negative,terrible purchase,28
+This is one of the worst products I have purchased,Negative,one worst product purchased,50
+Awful experience and terrible product,Negative,awful experience terrible product,37
+This product is unreliable and useless,Negative,product unreliable useless,38
+Very good quality for the price,Positive,good quality price,31
+Very pleased with this purchase,Positive,pleased purchase,31
+Amazing quality and very fast delivery,Positive,amazing quality fast delivery,38
+I am extremely disappointed with this purchase,Negative,extremely disappointed purchase,46
+Very impressed with this product,Positive,impressed product,32
+I am extremely happy with this purchase,Positive,extremely happy purchase,39
+Everything arrived perfectly and works great,Positive,everything arrived perfectly work great,44
+Very bad quality for the price,Negative,bad quality price,30
+I regret this purchase,Negative,regret purchase,22
+This product is much worse than expected,Negative,product much worse expected,40
+The product does not meet my needs,Negative,product meet need,34
+I am completely dissatisfied,Negative,completely dissatisfied,28
+The design is beautiful and the quality is excellent,Positive,design beautiful quality excellent,52
+Very poor value for money,Negative,poor value money,25
+Very disappointed with this product,Negative,disappointed product,35
+Very happy with my purchase,Positive,happy purchase,27
+Really bad product with poor quality,Negative,really bad product poor quality,36
+Very poor quality and slow delivery,Negative,poor quality slow delivery,35
